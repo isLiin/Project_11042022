@@ -1,1 +1,23 @@
-1Hello world!!!
+Day create project: 11/04/2022 
+Master:    Hồ Ngọc Khánh
+Local GIT: hongockhanh.it@gmail.com
+
+============Detail HTML=========================
+file: index.html
+    Mô tả các câu lệnh HTML tạo layout cho toàn bộ website tại Project.
+
+============Detail CSS==========================
+file: proCssLocal.CSS
+    Mô tả các câu lệnh CSS khai báo 1 lần và sử dụng nhiều lần cho mọi phần tử.
+
+file: proHeader.CSS
+    Mô tả các câu lệnh CSS khai báo áp dụng cho đối tượng HEADER.
+
+file: proFooter.CSS
+    Mô tả các câu lệnh CSS khai báo áp dụng cho đối tượng FOOTER.
+
+file: proBody.CSS
+    Mô tả các câu lệnh CSS khai báo áp dụng cho đối tượng BODY.
+
+file: proReponsive.CSS
+    Mô tả các câu lệnh CSS khai báo áp dụng cho đối tượng SCREEN.
